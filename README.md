@@ -24,7 +24,7 @@ Yet, our platform is not merely a tool for learning; it is a testament to the li
 
 Join us on this extraordinary adventure, where every click, every interaction, brings you one step closer to fluency, one step closer to understanding, and one step closer to a world united by language. Welcome to the future of language learning. Welcome to our platform.
 ## Team members
-1. [ABIN SABU PHILIP(https://github.com/ABINSABUPHILIP)
+1. [ABIN SABU PHILIP](https://github.com/ABINSABUPHILIP)
 
 ## Link to product walkthrough
 [link to video](Link Here)
